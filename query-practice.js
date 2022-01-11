@@ -104,6 +104,5 @@ const Performer = require('./models/performer');
     }).then(function() {
     process.exit();
    });
-  
-  // I realize my method is not in lne with the mongoose work we have just done, I will redo it ASAP and resubmit. Thanks for undertanding, Dor! 
+   
 
